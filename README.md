@@ -1,3 +1,17 @@
+# Spoklin
+
+Link : [https://dananky.netlify.app/](https://dananky.netlify.app/)
+
+## Account
+
+Username : test
+Password : test
+
+## Stack
+* React
+* Material UI
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
